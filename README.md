@@ -31,7 +31,7 @@ I created this App thinking about scalability. Zustand and React Query were fund
 
 ![Screenshot 2023-11-13 at 2 00 45 AM](https://github.com/LucasCraveiro/Tax_Calculator/assets/32401792/8fcf5891-44bc-4c48-8d1c-07ee2f3533fd)
 
-- Zod were used to validate the Income input. It shows error message when the user input is not satisfactory. 
+- Zod was used to validate the Income input. It shows error message when the user input is not satisfactory. 
 
 ![Screenshot 2023-11-13 at 1 59 53 AM](https://github.com/LucasCraveiro/Tax_Calculator/assets/32401792/b46167ae-fbc6-41dc-a003-2c9e9234783b)
 
