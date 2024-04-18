@@ -13,6 +13,6 @@ An APP for calculating Tax amount for your Income
 
 ### Configuration
 
-```npm intall```<br/>
+```npm install```<br/>
 <br/>
 ```npm run dev```
